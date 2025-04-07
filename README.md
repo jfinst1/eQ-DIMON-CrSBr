@@ -97,7 +97,7 @@ Got ideas? Open an issue or PR! We’d love help with:
 
 ## License
 
-MIT License—hack away, share, and cite if you use it!
+This project is licensed under my craziness. See the LICENSE file for details.
 
 ## Acknowledgments
 
